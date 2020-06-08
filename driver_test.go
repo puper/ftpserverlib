@@ -11,7 +11,7 @@ import (
 	gklog "github.com/go-kit/kit/log"
 	"github.com/spf13/afero"
 
-	"github.com/fclairamb/ftpserverlib/log/gokit"
+	"github.com/puper/ftpserverlib/log/gokit"
 )
 
 const (

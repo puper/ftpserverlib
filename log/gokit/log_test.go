@@ -6,7 +6,7 @@ import (
 
 	gklog "github.com/go-kit/kit/log"
 
-	"github.com/fclairamb/ftpserverlib/log"
+	"github.com/puper/ftpserverlib/log"
 )
 
 func getLogger() log.Logger {

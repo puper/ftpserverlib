@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/fclairamb/ftpserverlib/log"
+	"github.com/puper/ftpserverlib/log"
 )
 
 var (
