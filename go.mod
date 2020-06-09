@@ -1,7 +1,7 @@
 module github.com/puper/ftpserverlib
 
 require (
-	github.com/fclairamb/ftpserverlib v0.7.0
+	github.com/fclairamb/ftpserverlib v0.7.0 // indirect
 	github.com/go-kit/kit v0.10.0
 	github.com/secsy/goftp v0.0.0-20190720192957-f31499d7c79a
 	github.com/spf13/afero v1.2.2
